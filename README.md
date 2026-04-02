@@ -25,8 +25,6 @@ Clone the repository and open the `index.html` file in any modern web browser to
 ## Author
 Mithanya Murugesan  
 
-GitHub: https://github.com/your-username  
-LinkedIn: https://www.linkedin.com/in/your-profile/
 
 ## License
 This project is open source and available under the MIT License.
